@@ -254,12 +254,3 @@ flux events
 **Mein Tipp**: Probieren Sie beide aus! Setup dauert jeweils nur ein paar Stunden, und Sie bekommen schnell ein Gefühl dafür, was zu Ihrem Team passt.
 
 ---
-
-## Nächste Schritte
-
-1. **Entscheidung treffen** basierend auf diesem Vergleich
-2. **Kleines Testprojekt** starten (beide Tools sind kostenlos)
-3. **Team-Feedback** einholen nach 1-2 Wochen
-4. **Produktiv gehen** mit dem bevorzugten Tool
-
-**Wichtig**: GitOps ist wichtiger als die Tool-Wahl. Beide Flux und ArgoCD machen Ihre Deployments sicherer, nachvollziehbarer und automatisierter als traditionelle Methoden.
