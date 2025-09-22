@@ -40,7 +40,7 @@ Git Push → Web-Dashboard zeigt Status → Klick-Sync → Live-Monitoring
 | Was ist wichtig für Sie? | Flux | ArgoCD |
 |--------------------------|------|--------|
 | **Einfache Installation** | ⭐⭐⭐⭐⭐ Ein Befehl | ⭐⭐⭐ Mehrere Schritte |
-| **Web-Oberfläche** | ⭐⭐ Basis | ⭐⭐⭐⭐⭐ Vollständig |
+| **Web-Oberfläche** | ⭐ Keine | ⭐⭐⭐⭐⭐ Vollständig |
 | **Geschwindigkeit** | ⭐⭐⭐⭐⭐ ~30 Sekunden | ⭐⭐⭐ ~3-5 Minuten |
 | **Team-Zusammenarbeit** | ⭐⭐ Git-basiert | ⭐⭐⭐⭐⭐ Web-Dashboard |
 | **Troubleshooting** | ⭐⭐⭐ Terminal | ⭐⭐⭐⭐⭐ Web-Interface |
